@@ -19,8 +19,8 @@ I implemented the AI logic inside `RPS.py`, where the program predicts the oppon
    cd boilerplate-rock-paper-scissors
 
 2.	Run the program:
-
-    python3 main.py
+   ```bash
+   python3 main.py
 
 
 
@@ -28,6 +28,7 @@ I implemented the AI logic inside `RPS.py`, where the program predicts the oppon
 
 📊 Example Output
 
+```bash
 Final results: {'p1': 825, 'p2': 163, 'tie': 12}
 Player 1 win rate: 83.50%
 
@@ -35,14 +36,14 @@ Player 1 win rate: 83.50%
 ⸻
 
 📚 What I Learned
-	•	Basics of probability and move prediction
-	•	Using Python dictionaries and counters
-	•	Developing simple AI strategies
-	•	Git/GitHub workflow (fork, commit, push, submit)
+-	•	Basics of probability and move prediction
+-  •	Using Python dictionaries and counters
+-	•	Developing simple AI strategies
+-  •	Git/GitHub workflow (fork, commit, push, submit)
 
 ⸻
 
 📌 Acknowledgments
-	•	Project boilerplate provided by freeCodeCamp
-	•	Implemented by me as part of my learning and portfolio
+-	•	Project boilerplate provided by freeCodeCamp
+-  •	Implemented by me as part of my learning and portfolio
 
