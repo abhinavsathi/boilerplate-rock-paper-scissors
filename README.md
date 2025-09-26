@@ -28,7 +28,7 @@ I implemented the AI logic inside `RPS.py`, where the program predicts the oppon
 
 📊 Example Output
 
-```bash
+
 Final results: {'p1': 825, 'p2': 163, 'tie': 12}
 Player 1 win rate: 83.50%
 
