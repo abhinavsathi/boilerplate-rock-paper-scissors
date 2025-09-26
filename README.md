@@ -19,12 +19,11 @@ I implemented the AI logic inside `RPS.py`, where the program predicts the oppon
    cd boilerplate-rock-paper-scissors
 
 2.	Run the program:
-   ```bash
+
    python3 main.py
 
 
 
-⸻
 
 📊 Example Output
 
